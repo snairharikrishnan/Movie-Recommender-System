@@ -10,7 +10,7 @@ from sklearn.metrics.pairwise import cosine_similarity
 
 app=Flask(__name__)
 
-data=pd.read_csv("C:/Users/snair/Documents/Data Science Assignment/New Projects/Recommender/Movie_Recommendation_System/datasets/data_final.csv")
+data=pd.read_csv("dataset/data_final.csv")
 data["director"]=data["director"].replace(np.nan,"")
 data["actor_1"]=data["actor_1"].replace(np.nan,"")
 data["actor_2"]=data["actor_2"].replace(np.nan,"")
