@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html >
+<head>
+	<meta charset="UTF-8">
+    <title>Movie Recommender System</title> 
+    <link href='https://fonts.googleapis.com/css?family=Alegreya' rel='stylesheet'>	
+    <style>
+		body {
+			font-family: 'Alegreya';
+			font-size: 18px;
+			padding: 15px;
+		}
+				
+    </style>
+</head>
+
+
+<body>	
+	<div>
+		<center><h1 style="font-size:60px;">Selected Movie Review</h1></center>
+		<table border = 1  style="padding:60px;border-color: coral;border-style: solid;">
+		<tr>
+				<th style="font-size:30px;">Review</th>
+				<th style="font-size:30px;">Sentiment</th>
+		</tr>
+		{% for key, value in reviews.items() %}
+		<tr>
+               <td> {{ key }} </td>
+               <th> {{ value }} </th>
+        </tr>
+		{% endfor %}
+		</table>
+
+	</div>
+</body>
+</html>
