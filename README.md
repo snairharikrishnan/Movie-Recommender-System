@@ -7,4 +7,20 @@ similarity between other movies and recommends top 10 movies that has the highte
 ## Demo 
 Link: [https://movie-recommender-system-api.herokuapp.com](https://movie-recommender-system-api.herokuapp.com/)
 
-![](/static/rec_image.jpg)
+![](/static/rec_image.JPG)
+ 
+ ## Key Highlights
+ * Data Collected from Kaggle
+ * Extra data collected from wikipedia by webscrapping
+ * Additional data collected from TMDB website using APIs
+ * All important features concatenated to form a single feature
+ * Similarity matrix made on the feature using cosine similarity
+ * Movie names with top similarity scores captured
+ * Movie Posters of the selected movie and the recommended movies pulled from TMDB using API
+ * Movie posters along with other details passed on to the HTML file
+ * IMDB ID of the selected movie pulled from TMDB using API
+ * Reviews of the selected movie pulled from IMDB website using IMDB id
+ * Sentiment of the reviews found using SentimentIntensityAnalyzer
+ * Reviews along with the sentiments passed on to the HTML file
+ * Front End built using HTML, CSS and JavaScript
+ 
