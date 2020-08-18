@@ -28,5 +28,12 @@ Link: [https://movie-recommender-system-api.herokuapp.com](https://movie-recomme
 ## Technologies Used
 <img src="https://www.python.org/static/community_logos/python-logo-master-v3-TM.png" width=280> <img target="_blank" src="https://flask.palletsprojects.com/en/1.1.x/_images/flask-logo.png" width=180> <img target="_blank" src="https://number1.co.za/wp-content/uploads/2017/10/gunicorn_logo-300x85.png" width=280>  <img src="https://www.w3.org/html/logo/badge/html5-badge-h-solo.png" width=80>
 
+## Datasets
+1. [IMDB 5000 Movie Dataset](https://www.kaggle.com/carolzhangdc/imdb-5000-movie-dataset)
+2. [The Movies Dataset](https://www.kaggle.com/rounakbanik/the-movies-dataset)
+3. [List of American films of 2018](https://en.wikipedia.org/wiki/List_of_American_films_of_2018)
+4. [List of American films of 2019](https://en.wikipedia.org/wiki/List_of_American_films_of_2019)
+5. [List of American films of 2020](https://en.wikipedia.org/wiki/List_of_American_films_of_2020)
+
 ## Credits
 <img src="static/Kaggle_logo.png" width=180>   <img src="static/tmdb.jpg" width=150>   <img src="https://ia.media-imdb.com/images/M/MV5BMTk3ODA4Mjc0NF5BMl5BcG5nXkFtZTgwNDc1MzQ2OTE@._V1_.png" width=180>
