@@ -23,4 +23,5 @@ Link: [https://movie-recommender-system-api.herokuapp.com](https://movie-recomme
  * Sentiment of the reviews found using SentimentIntensityAnalyzer
  * Reviews along with the sentiments passed on to the HTML file
  * Front End built using HTML, CSS and JavaScript
+ * Deployment done using Heroku
  
