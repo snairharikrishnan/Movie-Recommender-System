@@ -25,3 +25,8 @@ Link: [https://movie-recommender-system-api.herokuapp.com](https://movie-recomme
  * Front End built using HTML, CSS and JavaScript
  * Deployment done using Heroku
  
+## Technologies Used
+<img src="https://www.python.org/static/community_logos/python-logo-master-v3-TM.png" width=280> <img target="_blank" src="https://flask.palletsprojects.com/en/1.1.x/_images/flask-logo.png" width=180> <img target="_blank" src="https://number1.co.za/wp-content/uploads/2017/10/gunicorn_logo-300x85.png" width=280>  <img src="https://www.w3.org/html/logo/badge/html5-badge-h-solo.png" width=80>
+
+## Credits
+<img src="static/tmdb.jpg" width=280>
